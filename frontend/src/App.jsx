@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 import './App.css';
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://data-analyst-agent-ye85.onrender.com";
 
 export default function App() {
   const [activeTab, setActiveTab] = useState("chat");
